@@ -10,10 +10,10 @@ Current classroom/room automation systems often lack integrated security and env
 
 We extend the **Smart Door Lock** project into a **multi-mode automation system** that integrates:
 
-* **IoT-based Smart Door Lock** – secured by keypad input and IoT mobile app.
-* **MOSFET-controlled Light & Lock** – switches ON/OFF automatically when the door unlocks/locks, ensuring energy-efficient lighting.
-* **Servo-based Door Control** – automatically opens/closes the door upon lock/unlock for hands-free convenience.
-* **Temperature-based Smart Fan** – using a temperature sensor, the fan turns ON only when the room is occupied **and** the temperature exceeds a defined threshold.
+* **IoT-based Smart Door Lock** - secured by keypad input and IoT mobile app.
+* **MOSFET-controlled Light & Lock** - switches ON/OFF automatically when the door unlocks/locks, ensuring energy-efficient lighting.
+* **Servo-based Door Control** - automatically opens/closes the door upon lock/unlock for hands-free convenience.
+* **Temperature-based Smart Fan** - using a temperature sensor, the fan turns ON only when the room is occupied **and** the temperature exceeds a defined threshold.
 
 This combined approach ensures **security, comfort, and energy efficiency** in classrooms and similar environments.
 
@@ -26,11 +26,11 @@ This combined approach ensures **security, comfort, and energy efficiency** in c
 * **PIR Sensor** (occupancy detection)
 * **12V Solenoid Lock + MOSFET** (for secure locking mechanism)
 * **Servo Motor** (for physical door control)
-* **MOSFET + LED Light** (for automated lighting)
-* **Temperature Sensor (e.g., DHT11/LM35)** (for fan control)
-* **DC Fan + MOSFET** (temperature-controlled ventilation)
+* **MOSFET + 5V LED Light** (for automated lighting)
+* **Temperature Sensor** (for fan control)
+* **5V DC Fan + MOSFET** (temperature-controlled ventilation)
 * **Blynk IoT App** (remote lock/unlock and monitoring)
-* Power supply & supporting circuitry (buck converters, resistors, flyback diodes, etc.)
+* **Power supply & supporting circuitry** (buck converters, resistors, flyback diodes, etc.)
 
 ---
 
