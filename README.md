@@ -11,7 +11,7 @@ Current classroom/room automation systems often lack integrated security and env
 We extend the **Smart Door Lock** project into a **multi-mode automation system** that integrates:
 
 * **IoT-based Smart Door Lock** – secured by keypad input and IoT mobile app.
-* **MOSFET-controlled Light** – switches ON/OFF automatically when the door unlocks/locks, ensuring energy-efficient lighting.
+* **MOSFET-controlled Light & Lock** – switches ON/OFF automatically when the door unlocks/locks, ensuring energy-efficient lighting.
 * **Servo-based Door Control** – automatically opens/closes the door upon lock/unlock for hands-free convenience.
 * **Temperature-based Smart Fan** – using a temperature sensor, the fan turns ON only when the room is occupied **and** the temperature exceeds a defined threshold.
 
